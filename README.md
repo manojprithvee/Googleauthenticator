@@ -1,5 +1,5 @@
 # Google Authenticator
-this gem emulates Google Authenticator app on android and iphones
+This gem emulates Google Authenticator app on android and iphones.
 
 ## Installation
 
