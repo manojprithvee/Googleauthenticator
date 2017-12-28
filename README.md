@@ -6,16 +6,12 @@ This gem emulates Google Authenticator app on android and iphones.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'googleauthenticator'
+gem 'googleauthenticator' ,:git => "git://github.com/manojprithvee/Googleauthenticator.git"
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install googleauthenticator
 
 ## Usage
 
