@@ -17,7 +17,7 @@ And then execute:
 
 ```ruby
 require 'Googleauthenticator'
-Googleauthenticator.value("key")
+Googleauthenticator.value("key") #=> 273643
 ```
 
 ## Development
